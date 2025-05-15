@@ -1,0 +1,482 @@
+[
+  {
+    "Style Factor":"Minimalist",
+    "Common Fabrics":"Cotton, Wool, Linen",
+    "Patterns":"Animal print, Polka dot",
+    "Colors":"Sage, Cream, Blush",
+    "Fit\/Cut":"Flowy, Cropped",
+    "Details":"Collars, Bows, Fringe"
+  },
+  {
+    "Style Factor":"Boho",
+    "Common Fabrics":"Linen, Cotton, Crochet",
+    "Patterns":"Polka dot, Color block",
+    "Colors":"Neon Green, Hot Pink, Purple",
+    "Fit\/Cut":"Structured, Oversized",
+    "Details":"Fringe, Logos, Embroidery"
+  },
+  {
+    "Style Factor":"Streetwear",
+    "Common Fabrics":"Fleece, Denim, Jersey",
+    "Patterns":"Typography, Solid",
+    "Colors":"Blush, Sky Blue, Cream",
+    "Fit\/Cut":"Flowy, Fitted",
+    "Details":"Lace, Buttons, Ruffles"
+  },
+  {
+    "Style Factor":"Vintage",
+    "Common Fabrics":"Wool, Denim, Cotton",
+    "Patterns":"Solid, Graphic",
+    "Colors":"Emerald, Yellow, Red",
+    "Fit\/Cut":"Oversized, Fitted",
+    "Details":"Ruffles, Sequins, Buttons"
+  },
+  {
+    "Style Factor":"Y2K",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Plaid, Floral",
+    "Colors":"Red, Emerald, Yellow",
+    "Fit\/Cut":"Cropped, Structured",
+    "Details":"Lace, Bows, Buttons"
+  },
+  {
+    "Style Factor":"Preppy",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Plaid, Animal print",
+    "Colors":"Neon Green, Orange, Purple",
+    "Fit\/Cut":"Relaxed, Fitted",
+    "Details":"Zippers, Ruffles, Sequins"
+  },
+  {
+    "Style Factor":"Athleisure",
+    "Common Fabrics":"Spandex, Cotton, Polyester",
+    "Patterns":"Floral, Animal print",
+    "Colors":"Gray, White, Beige",
+    "Fit\/Cut":"Fitted, Flowy",
+    "Details":"Bows, Ruffles, Lace"
+  },
+  {
+    "Style Factor":"Cottagecore",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Color block, Floral",
+    "Colors":"Olive, White, Gray",
+    "Fit\/Cut":"Fitted, Structured",
+    "Details":"Sequins, Embroidery, Fringe"
+  },
+  {
+    "Style Factor":"Glam",
+    "Common Fabrics":"Satin, Sequin, Velvet",
+    "Patterns":"Graphic, Animal print",
+    "Colors":"Yellow, Emerald, Royal Blue",
+    "Fit\/Cut":"Oversized, Fitted",
+    "Details":"Logos, Embroidery, Buttons"
+  },
+  {
+    "Style Factor":"Grunge",
+    "Common Fabrics":"Denim, Cotton, Flannel",
+    "Patterns":"Color block, Animal print",
+    "Colors":"Yellow, Red, Emerald",
+    "Fit\/Cut":"Relaxed, Oversized",
+    "Details":"Bows, Ruffles, Collars"
+  },
+  {
+    "Style Factor":"Chic",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Color block, Graphic",
+    "Colors":"Charcoal, Burgundy, Navy",
+    "Fit\/Cut":"Cropped, Flowy",
+    "Details":"Ruffles, Bows, Sequins"
+  },
+  {
+    "Style Factor":"Punk",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Plaid, Graphic",
+    "Colors":"Blush, Cream, Sage",
+    "Fit\/Cut":"Relaxed, Flowy",
+    "Details":"Fringe, Collars, Sequins"
+  },
+  {
+    "Style Factor":"Artsy",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Polka dot, Graphic",
+    "Colors":"Emerald, Royal Blue, Red",
+    "Fit\/Cut":"Relaxed, Oversized",
+    "Details":"Zippers, Sequins, Collars"
+  },
+  {
+    "Style Factor":"Casual",
+    "Common Fabrics":"Jersey, Denim, Cotton",
+    "Patterns":"Floral, Solid",
+    "Colors":"White, Olive, Gray",
+    "Fit\/Cut":"Oversized, Fitted",
+    "Details":"Zippers, Lace, Ruffles"
+  },
+  {
+    "Style Factor":"Formal",
+    "Common Fabrics":"Silk, Wool, Tweed",
+    "Patterns":"Color block, Polka dot",
+    "Colors":"Neon Green, Orange, Hot Pink",
+    "Fit\/Cut":"Structured, Flowy",
+    "Details":"Embroidery, Fringe, Buttons"
+  },
+  {
+    "Style Factor":"Business Casual",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Color block, Floral",
+    "Colors":"Cream, Blush, Sage",
+    "Fit\/Cut":"Fitted, Flowy",
+    "Details":"Logos, Zippers, Bows"
+  },
+  {
+    "Style Factor":"Goth",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Plaid, Animal print",
+    "Colors":"Charcoal, Burgundy, Black",
+    "Fit\/Cut":"Structured, Cropped",
+    "Details":"Bows, Lace, Ruffles"
+  },
+  {
+    "Style Factor":"Romantic",
+    "Common Fabrics":"Chiffon, Silk, Lace",
+    "Patterns":"Color block, Polka dot",
+    "Colors":"Black, Burgundy, Navy",
+    "Fit\/Cut":"Fitted, Structured",
+    "Details":"Sequins, Buttons, Fringe"
+  },
+  {
+    "Style Factor":"Tomboy",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Plaid, Floral",
+    "Colors":"Beige, Gray, Olive",
+    "Fit\/Cut":"Structured, Cropped",
+    "Details":"Ruffles, Embroidery, Fringe"
+  },
+  {
+    "Style Factor":"Androgynous",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Plaid, Polka dot",
+    "Colors":"Navy, Burgundy, Charcoal",
+    "Fit\/Cut":"Relaxed, Structured",
+    "Details":"Ruffles, Buttons, Bows"
+  },
+  {
+    "Style Factor":"E-girl\/E-boy",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Solid, Polka dot",
+    "Colors":"Olive, Gray, White",
+    "Fit\/Cut":"Oversized, Fitted",
+    "Details":"Fringe, Bows, Collars"
+  },
+  {
+    "Style Factor":"Kawaii",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Color block, Polka dot",
+    "Colors":"Emerald, Red, Royal Blue",
+    "Fit\/Cut":"Cropped, Relaxed",
+    "Details":"Ruffles, Collars, Bows"
+  },
+  {
+    "Style Factor":"Classic",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Polka dot, Color block",
+    "Colors":"Purple, Hot Pink, Neon Green",
+    "Fit\/Cut":"Cropped, Fitted",
+    "Details":"Lace, Bows, Collars"
+  },
+  {
+    "Style Factor":"Monochrome",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Typography, Graphic",
+    "Colors":"Yellow, Emerald, Royal Blue",
+    "Fit\/Cut":"Structured, Cropped",
+    "Details":"Bows, Logos, Lace"
+  },
+  {
+    "Style Factor":"Layered",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Graphic, Floral",
+    "Colors":"Black, Charcoal, Burgundy",
+    "Fit\/Cut":"Flowy, Relaxed",
+    "Details":"Lace, Sequins, Collars"
+  },
+  {
+    "Style Factor":"Sporty",
+    "Common Fabrics":"Cotton, Spandex, Polyester",
+    "Patterns":"Color block, Graphic",
+    "Colors":"Sky Blue, Cream, Sage",
+    "Fit\/Cut":"Oversized, Flowy",
+    "Details":"Bows, Collars, Lace"
+  },
+  {
+    "Style Factor":"Western",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Graphic, Plaid",
+    "Colors":"Black, Burgundy, Charcoal",
+    "Fit\/Cut":"Cropped, Oversized",
+    "Details":"Bows, Zippers, Fringe"
+  },
+  {
+    "Style Factor":"Resort",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Polka dot, Solid",
+    "Colors":"Navy, Burgundy, Charcoal",
+    "Fit\/Cut":"Fitted, Oversized",
+    "Details":"Sequins, Zippers, Buttons"
+  },
+  {
+    "Style Factor":"Urban",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Plaid, Solid",
+    "Colors":"Sky Blue, Blush, Sage",
+    "Fit\/Cut":"Cropped, Fitted",
+    "Details":"Ruffles, Buttons, Logos"
+  },
+  {
+    "Style Factor":"High Fashion",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Typography, Solid",
+    "Colors":"Cream, Sage, Blush",
+    "Fit\/Cut":"Structured, Oversized",
+    "Details":"Collars, Fringe, Ruffles"
+  },
+  {
+    "Style Factor":"Luxury",
+    "Common Fabrics":"Velvet, Silk, Satin",
+    "Patterns":"Plaid, Graphic",
+    "Colors":"Red, Emerald, Yellow",
+    "Fit\/Cut":"Flowy, Fitted",
+    "Details":"Logos, Embroidery, Bows"
+  },
+  {
+    "Style Factor":"Functional",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Polka dot, Solid",
+    "Colors":"Red, Royal Blue, Yellow",
+    "Fit\/Cut":"Cropped, Structured",
+    "Details":"Zippers, Bows, Buttons"
+  },
+  {
+    "Style Factor":"Avant-Garde",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Plaid, Typography",
+    "Colors":"Purple, Hot Pink, Orange",
+    "Fit\/Cut":"Flowy, Relaxed",
+    "Details":"Bows, Ruffles, Fringe"
+  },
+  {
+    "Style Factor":"Modern",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Solid, Floral",
+    "Colors":"Charcoal, Navy, Black",
+    "Fit\/Cut":"Relaxed, Flowy",
+    "Details":"Collars, Ruffles, Sequins"
+  },
+  {
+    "Style Factor":"Eclectic",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Floral, Graphic",
+    "Colors":"Red, Yellow, Emerald",
+    "Fit\/Cut":"Relaxed, Oversized",
+    "Details":"Logos, Bows, Buttons"
+  },
+  {
+    "Style Factor":"Clean Girl",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Typography, Graphic",
+    "Colors":"Beige, White, Gray",
+    "Fit\/Cut":"Cropped, Flowy",
+    "Details":"Ruffles, Fringe, Buttons"
+  },
+  {
+    "Style Factor":"Dark Academia",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Color block, Animal print",
+    "Colors":"Charcoal, Black, Navy",
+    "Fit\/Cut":"Oversized, Relaxed",
+    "Details":"Zippers, Fringe, Buttons"
+  },
+  {
+    "Style Factor":"Light Academia",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Polka dot, Graphic",
+    "Colors":"White, Gray, Beige",
+    "Fit\/Cut":"Relaxed, Cropped",
+    "Details":"Logos, Collars, Buttons"
+  },
+  {
+    "Style Factor":"Cultural",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Plaid, Animal print",
+    "Colors":"Orange, Hot Pink, Neon Green",
+    "Fit\/Cut":"Relaxed, Fitted",
+    "Details":"Logos, Lace, Zippers"
+  },
+  {
+    "Style Factor":"Festival",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Polka dot, Animal print",
+    "Colors":"Blush, Sage, Sky Blue",
+    "Fit\/Cut":"Relaxed, Oversized",
+    "Details":"Logos, Buttons, Embroidery"
+  },
+  {
+    "Style Factor":"Futuristic",
+    "Common Fabrics":"Neoprene, Vinyl, Synthetic",
+    "Patterns":"Polka dot, Solid",
+    "Colors":"Royal Blue, Red, Emerald",
+    "Fit\/Cut":"Relaxed, Oversized",
+    "Details":"Zippers, Bows, Buttons"
+  },
+  {
+    "Style Factor":"Retro",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Graphic, Solid",
+    "Colors":"Royal Blue, Emerald, Red",
+    "Fit\/Cut":"Fitted, Structured",
+    "Details":"Collars, Ruffles, Logos"
+  },
+  {
+    "Style Factor":"Nautical",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Floral, Color block",
+    "Colors":"Orange, Hot Pink, Neon Green",
+    "Fit\/Cut":"Relaxed, Cropped",
+    "Details":"Zippers, Collars, Bows"
+  },
+  {
+    "Style Factor":"Military",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Graphic, Polka dot",
+    "Colors":"Orange, Hot Pink, Neon Green",
+    "Fit\/Cut":"Fitted, Flowy",
+    "Details":"Bows, Embroidery, Logos"
+  },
+  {
+    "Style Factor":"Biker",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Solid, Floral",
+    "Colors":"Black, Navy, Burgundy",
+    "Fit\/Cut":"Flowy, Structured",
+    "Details":"Lace, Embroidery, Zippers"
+  },
+  {
+    "Style Factor":"Cowboy Core",
+    "Common Fabrics":"Polyester, Denim, Cotton",
+    "Patterns":"Animal print, Plaid",
+    "Colors":"Black, Navy, Charcoal",
+    "Fit\/Cut":"Fitted, Relaxed",
+    "Details":"Collars, Logos, Ruffles"
+  },
+  {
+    "Style Factor":"Coquette",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Typography, Color block",
+    "Colors":"Sage, Sky Blue, Blush",
+    "Fit\/Cut":"Fitted, Structured",
+    "Details":"Zippers, Buttons, Logos"
+  },
+  {
+    "Style Factor":"Scandinavian",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Graphic, Color block",
+    "Colors":"Cream, Sage, Blush",
+    "Fit\/Cut":"Relaxed, Flowy",
+    "Details":"Lace, Embroidery, Logos"
+  },
+  {
+    "Style Factor":"Old Money",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Polka dot, Color block",
+    "Colors":"Black, Charcoal, Burgundy",
+    "Fit\/Cut":"Oversized, Relaxed",
+    "Details":"Collars, Sequins, Buttons"
+  },
+  {
+    "Style Factor":"Balletcore",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Graphic, Plaid",
+    "Colors":"Purple, Neon Green, Hot Pink",
+    "Fit\/Cut":"Cropped, Oversized",
+    "Details":"Logos, Collars, Sequins"
+  },
+  {
+    "Style Factor":"Gorpcore",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Typography, Polka dot",
+    "Colors":"Navy, Black, Burgundy",
+    "Fit\/Cut":"Fitted, Cropped",
+    "Details":"Zippers, Sequins, Fringe"
+  },
+  {
+    "Style Factor":"Quiet Luxury",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Floral, Typography",
+    "Colors":"Cream, Sage, Sky Blue",
+    "Fit\/Cut":"Structured, Flowy",
+    "Details":"Fringe, Lace, Collars"
+  },
+  {
+    "Style Factor":"Kitsch",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Typography, Graphic",
+    "Colors":"Sky Blue, Sage, Cream",
+    "Fit\/Cut":"Relaxed, Flowy",
+    "Details":"Zippers, Bows, Logos"
+  },
+  {
+    "Style Factor":"Soft Grunge",
+    "Common Fabrics":"Polyester, Cotton, Denim",
+    "Patterns":"Typography, Solid",
+    "Colors":"Emerald, Royal Blue, Yellow",
+    "Fit\/Cut":"Oversized, Structured",
+    "Details":"Sequins, Lace, Buttons"
+  },
+  {
+    "Style Factor":"Cyberpunk",
+    "Common Fabrics":"Denim, Cotton, Polyester",
+    "Patterns":"Polka dot, Solid",
+    "Colors":"Yellow, Red, Emerald",
+    "Fit\/Cut":"Relaxed, Fitted",
+    "Details":"Fringe, Embroidery, Lace"
+  },
+  {
+    "Style Factor":"Steampunk",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Solid, Plaid",
+    "Colors":"Purple, Orange, Hot Pink",
+    "Fit\/Cut":"Oversized, Cropped",
+    "Details":"Fringe, Sequins, Lace"
+  },
+  {
+    "Style Factor":"Grannycore",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Color block, Graphic",
+    "Colors":"Navy, Charcoal, Black",
+    "Fit\/Cut":"Structured, Oversized",
+    "Details":"Bows, Sequins, Logos"
+  },
+  {
+    "Style Factor":"Maximalist",
+    "Common Fabrics":"Denim, Polyester, Cotton",
+    "Patterns":"Animal print, Solid",
+    "Colors":"Beige, Gray, Olive",
+    "Fit\/Cut":"Fitted, Flowy",
+    "Details":"Lace, Bows, Collars"
+  },
+  {
+    "Style Factor":"Skater",
+    "Common Fabrics":"Cotton, Polyester, Denim",
+    "Patterns":"Solid, Graphic",
+    "Colors":"Charcoal, Navy, Black",
+    "Fit\/Cut":"Oversized, Cropped",
+    "Details":"Buttons, Sequins, Bows"
+  },
+  {
+    "Style Factor":"Vacation Vibe",
+    "Common Fabrics":"Cotton, Denim, Polyester",
+    "Patterns":"Color block, Animal print",
+    "Colors":"Gray, Beige, Olive",
+    "Fit\/Cut":"Structured, Oversized",
+    "Details":"Collars, Zippers, Fringe"
+  }
+]

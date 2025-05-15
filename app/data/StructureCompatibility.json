@@ -1,0 +1,608 @@
+[
+  {
+    "Clothing Item":"T-shirt",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Shirt",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Blouse",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Tank top",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Crop top",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Sweater",
+    "Structure Type":"Loose\/Layered",
+    "Best Paired With":"Fitted Bottoms (Jeans, Leggings)",
+    "Avoid Pairing With":"Baggy Pants, Flowy Skirts"
+  },
+  {
+    "Clothing Item":"Hoodie",
+    "Structure Type":"Loose\/Layered",
+    "Best Paired With":"Fitted Bottoms (Jeans, Leggings)",
+    "Avoid Pairing With":"Baggy Pants, Flowy Skirts"
+  },
+  {
+    "Clothing Item":"Jacket",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Blazer",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Coat",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Parka",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Raincoat",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Trench coat",
+    "Structure Type":"Outerwear\/Structured",
+    "Best Paired With":"Slim Innerwear",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Cardigan",
+    "Structure Type":"Loose\/Layered",
+    "Best Paired With":"Fitted Bottoms (Jeans, Leggings)",
+    "Avoid Pairing With":"Baggy Pants, Flowy Skirts"
+  },
+  {
+    "Clothing Item":"Poncho",
+    "Structure Type":"Loose\/Layered",
+    "Best Paired With":"Fitted Bottoms (Jeans, Leggings)",
+    "Avoid Pairing With":"Baggy Pants, Flowy Skirts"
+  },
+  {
+    "Clothing Item":"Kimono",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Kurta",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Sherwani",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Dashiki",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Dirndl",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Sari",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Salwar kameez",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Lehenga",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Abaya",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Thobe",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Kaftan",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Kilt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Skirt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Mini skirt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Maxi skirt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Pencil skirt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Wrap skirt",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Shorts",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Bermuda shorts",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Capri pants",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Jeans",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Trousers",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Pants",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Leggings",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Joggers",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Sweatpants",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Overalls",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Dungarees",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Jumpsuit",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Romper",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Dress",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Evening gown",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Sundress",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Ball gown",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Cocktail dress",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Cheongsam",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Hanbok",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Ao dai",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Tunic",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Swimsuit",
+    "Structure Type":"Swimwear",
+    "Best Paired With":"Coverups, Kaftans",
+    "Avoid Pairing With":"Heavy Layers"
+  },
+  {
+    "Clothing Item":"Bikini",
+    "Structure Type":"Swimwear",
+    "Best Paired With":"Coverups, Kaftans",
+    "Avoid Pairing With":"Heavy Layers"
+  },
+  {
+    "Clothing Item":"One-piece swimsuit",
+    "Structure Type":"Swimwear",
+    "Best Paired With":"Coverups, Kaftans",
+    "Avoid Pairing With":"Heavy Layers"
+  },
+  {
+    "Clothing Item":"Boardshorts",
+    "Structure Type":"Bottom",
+    "Best Paired With":"Fitted or Balanced Tops",
+    "Avoid Pairing With":"Flowy Tops if Pants are Wide"
+  },
+  {
+    "Clothing Item":"Wetsuit",
+    "Structure Type":"Swimwear",
+    "Best Paired With":"Coverups, Kaftans",
+    "Avoid Pairing With":"Heavy Layers"
+  },
+  {
+    "Clothing Item":"Undershirt",
+    "Structure Type":"Fitted\/Flowy",
+    "Best Paired With":"Structured or Fitted Bottoms",
+    "Avoid Pairing With":"Loose or flowy bottoms"
+  },
+  {
+    "Clothing Item":"Bra",
+    "Structure Type":"Innerwear",
+    "Best Paired With":"Loose Outerwear, Pajamas",
+    "Avoid Pairing With":"Worn Alone"
+  },
+  {
+    "Clothing Item":"Panties",
+    "Structure Type":"Innerwear",
+    "Best Paired With":"Loose Outerwear, Pajamas",
+    "Avoid Pairing With":"Worn Alone"
+  },
+  {
+    "Clothing Item":"Boxers",
+    "Structure Type":"Innerwear",
+    "Best Paired With":"Loose Outerwear, Pajamas",
+    "Avoid Pairing With":"Worn Alone"
+  },
+  {
+    "Clothing Item":"Briefs",
+    "Structure Type":"Innerwear",
+    "Best Paired With":"Loose Outerwear, Pajamas",
+    "Avoid Pairing With":"Worn Alone"
+  },
+  {
+    "Clothing Item":"Lingerie",
+    "Structure Type":"Innerwear",
+    "Best Paired With":"Loose Outerwear, Pajamas",
+    "Avoid Pairing With":"Worn Alone"
+  },
+  {
+    "Clothing Item":"Corset",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Bodysuit",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Nightgown",
+    "Structure Type":"One-piece",
+    "Best Paired With":"Structured Outerwear or Light Layers",
+    "Avoid Pairing With":"Bulky Layers"
+  },
+  {
+    "Clothing Item":"Pajamas",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Robe",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Uniform",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Scrubs",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Coveralls",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Apron",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Socks",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Stockings",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Tights",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Gloves",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Scarf",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Hat",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Cap",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Beanie",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Turban",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Hijab",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Headwrap",
+    "Structure Type":"Bottom\/Flowy",
+    "Best Paired With":"Fitted Tops, Crop Tops",
+    "Avoid Pairing With":"Oversized Tops"
+  },
+  {
+    "Clothing Item":"Bandana",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Mittens",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Necktie",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Bow tie",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Belt",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Suspenders",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Shoes",
+    "Structure Type":"Accessory",
+    "Best Paired With":"Seasonal Coordination",
+    "Avoid Pairing With":"Overuse in Outfit"
+  },
+  {
+    "Clothing Item":"Boots",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Sandals",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Slippers",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Heels",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Loafers",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Sneakers",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Moccasins",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Clogs",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  },
+  {
+    "Clothing Item":"Flip-flops",
+    "Structure Type":"Varies",
+    "Best Paired With":"Balanced Outfits",
+    "Avoid Pairing With":"Mismatched Cuts"
+  }
+]

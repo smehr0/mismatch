@@ -1,0 +1,87 @@
+[
+  {
+    "Season\/Weather":"Spring",
+    "Recommended Fabrics":"Cotton, Linen, Light Wool, Denim",
+    "Recommended Styles":"Cottagecore, Minimalist, Classic, Preppy"
+  },
+  {
+    "Season\/Weather":"Summer",
+    "Recommended Fabrics":"Cotton, Linen, Rayon, Bamboo",
+    "Recommended Styles":"Boho, Vacation Vibe, Minimalist, Resort"
+  },
+  {
+    "Season\/Weather":"Monsoon",
+    "Recommended Fabrics":"Polyester, Nylon, Denim, Microfiber",
+    "Recommended Styles":"Functional, Urban, Streetwear"
+  },
+  {
+    "Season\/Weather":"Autumn",
+    "Recommended Fabrics":"Corduroy, Wool, Cotton, Denim",
+    "Recommended Styles":"Dark Academia, Grunge, Classic, Layered"
+  },
+  {
+    "Season\/Weather":"Winter",
+    "Recommended Fabrics":"Wool, Fleece, Velvet, Cashmere",
+    "Recommended Styles":"Luxury, Classic, Functional, Quiet Luxury"
+  },
+  {
+    "Season\/Weather":"Dry Season",
+    "Recommended Fabrics":"Cotton, Linen, Light Wool",
+    "Recommended Styles":"Minimalist, Resort, Casual"
+  },
+  {
+    "Season\/Weather":"Rainy Season",
+    "Recommended Fabrics":"Polyester, Nylon, Vinyl",
+    "Recommended Styles":"Functional, Streetwear, Gorpcore"
+  },
+  {
+    "Season\/Weather":"Snowy Weather",
+    "Recommended Fabrics":"Wool, Down, Fleece, Sherpa",
+    "Recommended Styles":"Functional, Classic, Gorpcore"
+  },
+  {
+    "Season\/Weather":"Humid Weather",
+    "Recommended Fabrics":"Linen, Cotton, Rayon",
+    "Recommended Styles":"Boho, Minimalist, Vacation Vibe"
+  },
+  {
+    "Season\/Weather":"Hot Weather",
+    "Recommended Fabrics":"Cotton, Linen, Chambray",
+    "Recommended Styles":"Cottagecore, Boho, Resort"
+  },
+  {
+    "Season\/Weather":"Cold Weather",
+    "Recommended Fabrics":"Wool, Tweed, Velvet",
+    "Recommended Styles":"Classic, Chic, Functional"
+  },
+  {
+    "Season\/Weather":"Tropical Climate",
+    "Recommended Fabrics":"Cotton, Bamboo, Linen",
+    "Recommended Styles":"Tropical, Vacation Vibe, Boho"
+  },
+  {
+    "Season\/Weather":"Desert Climate",
+    "Recommended Fabrics":"Linen, Cotton, Mesh",
+    "Recommended Styles":"Minimalist, Functional, Casual"
+  },
+  {
+    "Season\/Weather":"Windy Weather",
+    "Recommended Fabrics":"Wool, Gabardine, Leather",
+    "Recommended Styles":"Gorpcore, Functional, Classic"
+  },
+  {
+    "Season\/Weather":"Foggy Weather",
+    "Recommended Fabrics":"Wool, Fleece, Cotton",
+    "Recommended Styles":"Classic, Dark Academia, Minimalist"
+  },
+  {
+    "Season\/Weather":"Stormy Weather",
+    "Recommended Fabrics":"Nylon, Polyester, Waterproof Shells",
+    "Recommended Styles":"Functional, Gorpcore, Urban"
+  },
+  {
+    "Season\/Weather":"Transitional Weather (Seasonal Shift)",
+    "Recommended Fabrics":"Denim, Light Wool, Cotton",
+    "Recommended Styles":"Layered, Casual, Streetwear"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "Base Color":"Red",
+    "Complementary":"Cyan",
+    "Analogous 1":"Orange",
+    "Analogous 2":"Pink",
+    "Triadic 1":"Lime",
+    "Triadic 2":"Blue"
+  },
+  {
+    "Base Color":"Orange",
+    "Complementary":"Azure",
+    "Analogous 1":"Yellow",
+    "Analogous 2":"Red",
+    "Triadic 1":"Spring Green",
+    "Triadic 2":"Violet"
+  },
+  {
+    "Base Color":"Yellow",
+    "Complementary":"Blue",
+    "Analogous 1":"Chartreuse",
+    "Analogous 2":"Orange",
+    "Triadic 1":"Cyan",
+    "Triadic 2":"Magenta"
+  },
+  {
+    "Base Color":"Chartreuse",
+    "Complementary":"Violet",
+    "Analogous 1":"Lime",
+    "Analogous 2":"Yellow",
+    "Triadic 1":"Azure",
+    "Triadic 2":"Pink"
+  },
+  {
+    "Base Color":"Lime",
+    "Complementary":"Magenta",
+    "Analogous 1":"Spring Green",
+    "Analogous 2":"Chartreuse",
+    "Triadic 1":"Blue",
+    "Triadic 2":"Red"
+  },
+  {
+    "Base Color":"Spring Green",
+    "Complementary":"Pink",
+    "Analogous 1":"Cyan",
+    "Analogous 2":"Lime",
+    "Triadic 1":"Violet",
+    "Triadic 2":"Orange"
+  },
+  {
+    "Base Color":"Cyan",
+    "Complementary":"Red",
+    "Analogous 1":"Azure",
+    "Analogous 2":"Spring Green",
+    "Triadic 1":"Magenta",
+    "Triadic 2":"Yellow"
+  },
+  {
+    "Base Color":"Azure",
+    "Complementary":"Orange",
+    "Analogous 1":"Blue",
+    "Analogous 2":"Cyan",
+    "Triadic 1":"Pink",
+    "Triadic 2":"Chartreuse"
+  },
+  {
+    "Base Color":"Blue",
+    "Complementary":"Yellow",
+    "Analogous 1":"Violet",
+    "Analogous 2":"Azure",
+    "Triadic 1":"Red",
+    "Triadic 2":"Lime"
+  },
+  {
+    "Base Color":"Violet",
+    "Complementary":"Chartreuse",
+    "Analogous 1":"Magenta",
+    "Analogous 2":"Blue",
+    "Triadic 1":"Orange",
+    "Triadic 2":"Spring Green"
+  },
+  {
+    "Base Color":"Magenta",
+    "Complementary":"Lime",
+    "Analogous 1":"Pink",
+    "Analogous 2":"Violet",
+    "Triadic 1":"Yellow",
+    "Triadic 2":"Cyan"
+  },
+  {
+    "Base Color":"Pink",
+    "Complementary":"Spring Green",
+    "Analogous 1":"Red",
+    "Analogous 2":"Magenta",
+    "Triadic 1":"Chartreuse",
+    "Triadic 2":"Azure"
+  }
+]

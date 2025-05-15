@@ -1,0 +1,318 @@
+[
+  {
+    "Texture":"Cotton",
+    "Compatible With":"Cotton, Linen, Denim, Jersey, Canvas, Chambray, Broadcloth"
+  },
+  {
+    "Texture":"Linen",
+    "Compatible With":"Linen, Cotton, Silk, Tencel"
+  },
+  {
+    "Texture":"Silk",
+    "Compatible With":"Silk, Satin, Chiffon, Organza, Georgette"
+  },
+  {
+    "Texture":"Wool",
+    "Compatible With":"Wool, Cashmere, Tweed, Tartan wool, Merino wool"
+  },
+  {
+    "Texture":"Polyester",
+    "Compatible With":"Polyester, Spandex, Rayon, Nylon, Microfiber, Synthetics"
+  },
+  {
+    "Texture":"Nylon",
+    "Compatible With":"Nylon"
+  },
+  {
+    "Texture":"Rayon",
+    "Compatible With":"Rayon"
+  },
+  {
+    "Texture":"Acrylic",
+    "Compatible With":"Acrylic"
+  },
+  {
+    "Texture":"Spandex",
+    "Compatible With":"Spandex, Polyester, Nylon"
+  },
+  {
+    "Texture":"Viscose",
+    "Compatible With":"Viscose"
+  },
+  {
+    "Texture":"Modal",
+    "Compatible With":"Modal"
+  },
+  {
+    "Texture":"Bamboo",
+    "Compatible With":"Bamboo"
+  },
+  {
+    "Texture":"Cashmere",
+    "Compatible With":"Cashmere"
+  },
+  {
+    "Texture":"Hemp",
+    "Compatible With":"Hemp"
+  },
+  {
+    "Texture":"Tencel",
+    "Compatible With":"Tencel"
+  },
+  {
+    "Texture":"Lyocell",
+    "Compatible With":"Lyocell"
+  },
+  {
+    "Texture":"Cupro",
+    "Compatible With":"Cupro"
+  },
+  {
+    "Texture":"Leather",
+    "Compatible With":"Leather, Suede, Denim, Canvas"
+  },
+  {
+    "Texture":"Suede",
+    "Compatible With":"Suede"
+  },
+  {
+    "Texture":"Denim",
+    "Compatible With":"Cotton, Canvas, Twill, Chambray, Jersey"
+  },
+  {
+    "Texture":"Chambray",
+    "Compatible With":"Chambray"
+  },
+  {
+    "Texture":"Velvet",
+    "Compatible With":"Velvet, Satin, Silk"
+  },
+  {
+    "Texture":"Satin",
+    "Compatible With":"Satin, Silk, Chiffon, Organza"
+  },
+  {
+    "Texture":"Chiffon",
+    "Compatible With":"Silk, Chiffon, Georgette, Tulle, Organza"
+  },
+  {
+    "Texture":"Georgette",
+    "Compatible With":"Georgette"
+  },
+  {
+    "Texture":"Organza",
+    "Compatible With":"Organza"
+  },
+  {
+    "Texture":"Tulle",
+    "Compatible With":"Tulle, Organza, Chiffon, Net fabric"
+  },
+  {
+    "Texture":"Crepe",
+    "Compatible With":"Crepe"
+  },
+  {
+    "Texture":"Jersey",
+    "Compatible With":"Jersey, Cotton, Modal, French terry"
+  },
+  {
+    "Texture":"Tweed",
+    "Compatible With":"Tweed"
+  },
+  {
+    "Texture":"Fleece",
+    "Compatible With":"Fleece, Cotton, Jersey, French terry"
+  },
+  {
+    "Texture":"Canvas",
+    "Compatible With":"Canvas, Cotton, Denim, Duck cloth"
+  },
+  {
+    "Texture":"Broadcloth",
+    "Compatible With":"Broadcloth"
+  },
+  {
+    "Texture":"Gabardine",
+    "Compatible With":"Gabardine"
+  },
+  {
+    "Texture":"Poplin",
+    "Compatible With":"Poplin"
+  },
+  {
+    "Texture":"Seersucker",
+    "Compatible With":"Seersucker"
+  },
+  {
+    "Texture":"Mesh",
+    "Compatible With":"Mesh"
+  },
+  {
+    "Texture":"Lace",
+    "Compatible With":"Lace, Tulle, Silk, Chiffon"
+  },
+  {
+    "Texture":"Batiste",
+    "Compatible With":"Batiste"
+  },
+  {
+    "Texture":"Interlock",
+    "Compatible With":"Interlock"
+  },
+  {
+    "Texture":"Muslin",
+    "Compatible With":"Muslin"
+  },
+  {
+    "Texture":"Voile",
+    "Compatible With":"Voile"
+  },
+  {
+    "Texture":"Aida cloth",
+    "Compatible With":"Aida cloth"
+  },
+  {
+    "Texture":"Drill",
+    "Compatible With":"Drill"
+  },
+  {
+    "Texture":"Duck cloth",
+    "Compatible With":"Duck cloth"
+  },
+  {
+    "Texture":"Oxford",
+    "Compatible With":"Oxford"
+  },
+  {
+    "Texture":"Shell fabric",
+    "Compatible With":"Shell fabric"
+  },
+  {
+    "Texture":"Microfiber",
+    "Compatible With":"Microfiber"
+  },
+  {
+    "Texture":"Vinyl",
+    "Compatible With":"Vinyl"
+  },
+  {
+    "Texture":"PVC",
+    "Compatible With":"PVC"
+  },
+  {
+    "Texture":"Neoprene",
+    "Compatible With":"Neoprene"
+  },
+  {
+    "Texture":"Ramie",
+    "Compatible With":"Ramie"
+  },
+  {
+    "Texture":"Angora",
+    "Compatible With":"Angora"
+  },
+  {
+    "Texture":"Mohair",
+    "Compatible With":"Mohair"
+  },
+  {
+    "Texture":"Alpaca",
+    "Compatible With":"Alpaca"
+  },
+  {
+    "Texture":"Pashmina",
+    "Compatible With":"Pashmina"
+  },
+  {
+    "Texture":"Tartan wool",
+    "Compatible With":"Tartan wool"
+  },
+  {
+    "Texture":"Merino wool",
+    "Compatible With":"Merino wool"
+  },
+  {
+    "Texture":"Boucl\ufffd",
+    "Compatible With":"Boucl\ufffd"
+  },
+  {
+    "Texture":"Synthetics",
+    "Compatible With":"Synthetics"
+  },
+  {
+    "Texture":"Recycled polyester",
+    "Compatible With":"Recycled polyester"
+  },
+  {
+    "Texture":"Soy fabric",
+    "Compatible With":"Soy fabric"
+  },
+  {
+    "Texture":"Milk fiber",
+    "Compatible With":"Milk fiber"
+  },
+  {
+    "Texture":"Pi\ufffda fabric",
+    "Compatible With":"Pi\ufffda fabric"
+  },
+  {
+    "Texture":"SeaCell",
+    "Compatible With":"SeaCell"
+  },
+  {
+    "Texture":"Qmilch",
+    "Compatible With":"Qmilch"
+  },
+  {
+    "Texture":"Acetate",
+    "Compatible With":"Acetate"
+  },
+  {
+    "Texture":"Tricot",
+    "Compatible With":"Tricot"
+  },
+  {
+    "Texture":"Jacquard",
+    "Compatible With":"Jacquard"
+  },
+  {
+    "Texture":"Brocade",
+    "Compatible With":"Brocade"
+  },
+  {
+    "Texture":"Batiste cotton",
+    "Compatible With":"Batiste cotton"
+  },
+  {
+    "Texture":"Double gauze",
+    "Compatible With":"Double gauze"
+  },
+  {
+    "Texture":"Net fabric",
+    "Compatible With":"Net fabric"
+  },
+  {
+    "Texture":"Crinoline",
+    "Compatible With":"Crinoline"
+  },
+  {
+    "Texture":"Knit",
+    "Compatible With":"Knit"
+  },
+  {
+    "Texture":"Waffle weave",
+    "Compatible With":"Waffle weave"
+  },
+  {
+    "Texture":"French terry",
+    "Compatible With":"French terry"
+  },
+  {
+    "Texture":"Brushed cotton",
+    "Compatible With":"Brushed cotton"
+  },
+  {
+    "Texture":"Burnout fabric",
+    "Compatible With":"Burnout fabric"
+  }
+]

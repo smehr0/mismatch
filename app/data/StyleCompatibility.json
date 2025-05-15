@@ -1,0 +1,238 @@
+[
+  {
+    "Style Factor":"Minimalist",
+    "Compatible With":"Monochrome, Modern, Scandinavian, Clean Girl, Old Money, Quiet Luxury"
+  },
+  {
+    "Style Factor":"Boho",
+    "Compatible With":"Vintage, Cottagecore, Festival, Artsy, Eclectic"
+  },
+  {
+    "Style Factor":"Streetwear",
+    "Compatible With":"Casual, Urban, Sporty, Skater, E-girl\/E-boy"
+  },
+  {
+    "Style Factor":"Vintage",
+    "Compatible With":"Boho, Retro, Grunge, Romantic, Classic"
+  },
+  {
+    "Style Factor":"Y2K",
+    "Compatible With":"Streetwear, E-girl\/E-boy, Kawaii, Retro"
+  },
+  {
+    "Style Factor":"Preppy",
+    "Compatible With":"Classic, Old Money, Academic, Clean Girl"
+  },
+  {
+    "Style Factor":"Athleisure",
+    "Compatible With":"Sporty, Functional, Casual"
+  },
+  {
+    "Style Factor":"Cottagecore",
+    "Compatible With":"Boho, Romantic, Grannycore"
+  },
+  {
+    "Style Factor":"Glam",
+    "Compatible With":"Luxury, Formal, High Fashion"
+  },
+  {
+    "Style Factor":"Grunge",
+    "Compatible With":"Vintage, Punk, Soft Grunge"
+  },
+  {
+    "Style Factor":"Chic",
+    "Compatible With":"Modern, Minimalist, Quiet Luxury"
+  },
+  {
+    "Style Factor":"Punk",
+    "Compatible With":"Grunge, Goth, Streetwear"
+  },
+  {
+    "Style Factor":"Artsy",
+    "Compatible With":"Eclectic, Avant-Garde, Boho"
+  },
+  {
+    "Style Factor":"Casual",
+    "Compatible With":"Casual"
+  },
+  {
+    "Style Factor":"Formal",
+    "Compatible With":"Classic, Luxury, Chic"
+  },
+  {
+    "Style Factor":"Business Casual",
+    "Compatible With":"Classic, Modern, Formal"
+  },
+  {
+    "Style Factor":"Romantic",
+    "Compatible With":"Cottagecore, Vintage, Balletcore"
+  },
+  {
+    "Style Factor":"Tomboy",
+    "Compatible With":"Androgynous, Sporty, Streetwear"
+  },
+  {
+    "Style Factor":"Androgynous",
+    "Compatible With":"Tomboy, Minimalist, Modern"
+  },
+  {
+    "Style Factor":"E-girl\/E-boy",
+    "Compatible With":"Y2K, Streetwear, Cyberpunk"
+  },
+  {
+    "Style Factor":"Kawaii",
+    "Compatible With":"Casual"
+  },
+  {
+    "Style Factor":"Classic",
+    "Compatible With":"Preppy, Monochrome, Formal"
+  },
+  {
+    "Style Factor":"Monochrome",
+    "Compatible With":"Minimalist, Modern, Classic"
+  },
+  {
+    "Style Factor":"Layered",
+    "Compatible With":"Streetwear, Skater, Maximalist"
+  },
+  {
+    "Style Factor":"Sporty",
+    "Compatible With":"Athleisure, Tomboy, Urban"
+  },
+  {
+    "Style Factor":"Western",
+    "Compatible With":"Cowboy Core, Functional"
+  },
+  {
+    "Style Factor":"Resort",
+    "Compatible With":"Vacation Vibe, Nautical"
+  },
+  {
+    "Style Factor":"Urban",
+    "Compatible With":"Streetwear, Modern, Casual"
+  },
+  {
+    "Style Factor":"High Fashion",
+    "Compatible With":"Avant-Garde, Luxury"
+  },
+  {
+    "Style Factor":"Luxury",
+    "Compatible With":"Quiet Luxury, Glam, Formal"
+  },
+  {
+    "Style Factor":"Functional",
+    "Compatible With":"Athleisure, Western, Sporty"
+  },
+  {
+    "Style Factor":"Avant-Garde",
+    "Compatible With":"High Fashion, Artsy"
+  },
+  {
+    "Style Factor":"Modern",
+    "Compatible With":"Minimalist, Chic, Classic"
+  },
+  {
+    "Style Factor":"Eclectic",
+    "Compatible With":"Artsy, Boho, Maximalist"
+  },
+  {
+    "Style Factor":"Clean Girl",
+    "Compatible With":"Scandinavian, Minimalist, Chic"
+  },
+  {
+    "Style Factor":"Dark Academia",
+    "Compatible With":"Classic, Romantic, Preppy"
+  },
+  {
+    "Style Factor":"Light Academia",
+    "Compatible With":"Preppy, Cottagecore, Classic"
+  },
+  {
+    "Style Factor":"Cultural",
+    "Compatible With":"Eclectic, Festival"
+  },
+  {
+    "Style Factor":"Festival",
+    "Compatible With":"Boho, Grunge, Eclectic"
+  },
+  {
+    "Style Factor":"Futuristic",
+    "Compatible With":"Cyberpunk, Modern"
+  },
+  {
+    "Style Factor":"Retro",
+    "Compatible With":"Vintage, Y2K, Graphic"
+  },
+  {
+    "Style Factor":"Nautical",
+    "Compatible With":"Classic, Resort"
+  },
+  {
+    "Style Factor":"Military",
+    "Compatible With":"Functional, Utility"
+  },
+  {
+    "Style Factor":"Biker",
+    "Compatible With":"Punk, Grunge"
+  },
+  {
+    "Style Factor":"Cowboy Core",
+    "Compatible With":"Western, Resort"
+  },
+  {
+    "Style Factor":"Coquette",
+    "Compatible With":"Balletcore, Romantic"
+  },
+  {
+    "Style Factor":"Scandinavian",
+    "Compatible With":"Minimalist, Clean Girl"
+  },
+  {
+    "Style Factor":"Old Money",
+    "Compatible With":"Quiet Luxury, Preppy"
+  },
+  {
+    "Style Factor":"Balletcore",
+    "Compatible With":"Romantic, Coquette"
+  },
+  {
+    "Style Factor":"Gorpcore",
+    "Compatible With":"Functional, Sporty"
+  },
+  {
+    "Style Factor":"Quiet Luxury",
+    "Compatible With":"Old Money, Chic, Luxury"
+  },
+  {
+    "Style Factor":"Kitsch",
+    "Compatible With":"Maximalist, Festival"
+  },
+  {
+    "Style Factor":"Soft Grunge",
+    "Compatible With":"Grunge, Romantic"
+  },
+  {
+    "Style Factor":"Cyberpunk",
+    "Compatible With":"Futuristic, E-girl\/E-boy"
+  },
+  {
+    "Style Factor":"Steampunk",
+    "Compatible With":"Retro, Futuristic"
+  },
+  {
+    "Style Factor":"Grannycore",
+    "Compatible With":"Cottagecore, Vintage"
+  },
+  {
+    "Style Factor":"Maximalist",
+    "Compatible With":"Eclectic, Kitsch, Layered"
+  },
+  {
+    "Style Factor":"Skater",
+    "Compatible With":"Streetwear, Casual, Layered"
+  },
+  {
+    "Style Factor":"Vacation Vibe",
+    "Compatible With":"Resort, Tropical"
+  }
+]

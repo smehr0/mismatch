@@ -1,0 +1,57 @@
+[
+  {
+    "Body Shape \/ Proportion":"Hourglass",
+    "Recommended Fits":"Fitted, Cinched Waist, Wrap Styles",
+    "Best Clothing Types":"Wrap dresses, High-waisted skirts, Belts, Tailored blazers"
+  },
+  {
+    "Body Shape \/ Proportion":"Pear-Shaped",
+    "Recommended Fits":"A-line, Structured Tops, High-Waist Bottoms",
+    "Best Clothing Types":"A-line skirts, Wide-leg trousers, Off-shoulder tops"
+  },
+  {
+    "Body Shape \/ Proportion":"Apple-Shaped",
+    "Recommended Fits":"Empire Waist, Flowy Tops, Structured Bottoms",
+    "Best Clothing Types":"V-neck tops, Tunics, Straight-leg pants"
+  },
+  {
+    "Body Shape \/ Proportion":"Rectangle",
+    "Recommended Fits":"Peplum, Layered, Defined Waist",
+    "Best Clothing Types":"Belted dresses, Ruffled tops, Flared skirts"
+  },
+  {
+    "Body Shape \/ Proportion":"Inverted Triangle",
+    "Recommended Fits":"Flared Bottoms, Slim Tops, Balance Focus",
+    "Best Clothing Types":"Bootcut pants, Pencil skirts, Minimalist tops"
+  },
+  {
+    "Body Shape \/ Proportion":"Petite",
+    "Recommended Fits":"Cropped, High-Waisted, Vertical Lines",
+    "Best Clothing Types":"Mini dresses, High-rise jeans, Short jackets"
+  },
+  {
+    "Body Shape \/ Proportion":"Tall",
+    "Recommended Fits":"Midi to Maxi Lengths, Long Layers",
+    "Best Clothing Types":"Wide-leg pants, Maxi dresses, Long coats"
+  },
+  {
+    "Body Shape \/ Proportion":"Plus Size",
+    "Recommended Fits":"Structured, Flowy, Defined Waist",
+    "Best Clothing Types":"Wrap dresses, A-line tops, Dark denim"
+  },
+  {
+    "Body Shape \/ Proportion":"Athletic\/Muscular",
+    "Recommended Fits":"Stretch Fabrics, Tailored, V-necklines",
+    "Best Clothing Types":"Bodycon dresses, Tapered pants, Stretch blazers"
+  },
+  {
+    "Body Shape \/ Proportion":"Short Torso",
+    "Recommended Fits":"Low-rise Bottoms, V-necklines, Cropped Jackets",
+    "Best Clothing Types":"Empire waist tops, Peplum tops, Longline cardigans"
+  },
+  {
+    "Body Shape \/ Proportion":"Long Torso",
+    "Recommended Fits":"High-waisted Bottoms, Cropped Tops",
+    "Best Clothing Types":"Paper-bag waist pants, Cropped hoodies, Belted dresses"
+  }
+]

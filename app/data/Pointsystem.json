@@ -1,0 +1,47 @@
+[
+  {
+    "Category":"Skin Tone Match",
+    "Max Points":8,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Color Harmony in Outfit",
+    "Max Points":10,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Proportion & Fit",
+    "Max Points":10,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Seasonal Suitability",
+    "Max Points":5,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Occasion Appropriateness",
+    "Max Points":15,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Trendiness \/ Style Factor (Bonus)",
+    "Max Points":3,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Pattern Compatibility",
+    "Max Points":5,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Texture Compatibility",
+    "Max Points":5,
+    "Unnamed: 2":null
+  },
+  {
+    "Category":"Structure Harmony",
+    "Max Points":8,
+    "Unnamed: 2":null
+  }
+]

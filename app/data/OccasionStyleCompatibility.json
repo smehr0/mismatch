@@ -1,0 +1,222 @@
+[
+  {
+    "Occasion":"Casual Day Out",
+    "Recommended Styles":"Casual, Streetwear, Minimalist",
+    "Color Range":"Neutral, Denim, Earth Tones"
+  },
+  {
+    "Occasion":"Work\/Office",
+    "Recommended Styles":"Business Casual, Classic, Minimalist",
+    "Color Range":"Navy, Gray, Beige, White, Pastels"
+  },
+  {
+    "Occasion":"Business Meeting",
+    "Recommended Styles":"Formal, Classic, Chic",
+    "Color Range":"Navy, Black, Charcoal, White, Cream"
+  },
+  {
+    "Occasion":"Job Interview",
+    "Recommended Styles":"Formal, Minimalist, Classic",
+    "Color Range":"Black, Navy, Charcoal, White"
+  },
+  {
+    "Occasion":"Wedding (Attendee)",
+    "Recommended Styles":"Romantic, Classic, Quiet Luxury",
+    "Color Range":"Pastels, Navy, Emerald, Gold, Floral"
+  },
+  {
+    "Occasion":"Wedding (Bride\/Groom)",
+    "Recommended Styles":"Luxury, Formal, Glam",
+    "Color Range":"White, Ivory, Cream, Metallic"
+  },
+  {
+    "Occasion":"Engagement Party",
+    "Recommended Styles":"Glam, Romantic, Luxury",
+    "Color Range":"Blush, Champagne, Gold, Silver"
+  },
+  {
+    "Occasion":"Baby Shower",
+    "Recommended Styles":"Cottagecore, Romantic, Minimalist",
+    "Color Range":"Pastels, Baby Blue, Soft Pink, Lavender"
+  },
+  {
+    "Occasion":"Bridal Shower",
+    "Recommended Styles":"Romantic, Cottagecore, Coquette",
+    "Color Range":"White, Soft Pink, Lavender"
+  },
+  {
+    "Occasion":"Date Night",
+    "Recommended Styles":"Romantic, Chic, Glam",
+    "Color Range":"Black, Red, Deep Green, Burgundy"
+  },
+  {
+    "Occasion":"Formal Dinner",
+    "Recommended Styles":"Classic, Quiet Luxury, Chic",
+    "Color Range":"Black, Navy, Deep Burgundy, Emerald"
+  },
+  {
+    "Occasion":"Cocktail Party",
+    "Recommended Styles":"Glam, Chic, Luxury",
+    "Color Range":"Black, Burgundy, Metallic, Jewel Tones"
+  },
+  {
+    "Occasion":"Club\/Party",
+    "Recommended Styles":"Y2K, Streetwear, Glam",
+    "Color Range":"Bright, Neon, Metallic"
+  },
+  {
+    "Occasion":"Graduation",
+    "Recommended Styles":"Classic, Preppy, Chic",
+    "Color Range":"Black, Navy, White, Ivory, School Colors"
+  },
+  {
+    "Occasion":"Funeral",
+    "Recommended Styles":"Goth",
+    "Color Range":"Black, Dark Gray, Charcoal, Dark Burgundy, Navy"
+  },
+  {
+    "Occasion":"Holiday Party",
+    "Recommended Styles":"Glam, Luxury, Maximalist",
+    "Color Range":"Red, Green, Gold, Silver, Metallic"
+  },
+  {
+    "Occasion":"Beach Day",
+    "Recommended Styles":"Vacation Vibe, Resort, Tropical",
+    "Color Range":"Sky Blue, Sand, White, Coral"
+  },
+  {
+    "Occasion":"Vacation",
+    "Recommended Styles":"Vacation Vibe, Resort, Boho",
+    "Color Range":"White, Beige, Earth Tones, Bright Tropical"
+  },
+  {
+    "Occasion":"Festival",
+    "Recommended Styles":"Boho, Eclectic, Grunge",
+    "Color Range":"Earth Tones, Denim, Bold Prints"
+  },
+  {
+    "Occasion":"Concert",
+    "Recommended Styles":"Streetwear, Grunge, Glam",
+    "Color Range":"Black, Denim, Bold Colors, Metallic"
+  },
+  {
+    "Occasion":"Picnic",
+    "Recommended Styles":"Cottagecore, Casual, Boho",
+    "Color Range":"Pastels, Floral, Earth Tones, White"
+  },
+  {
+    "Occasion":"Hiking",
+    "Recommended Styles":"Gorpcore, Functional, Athleisure",
+    "Color Range":"Earth Tones, Olive, Khaki, Gray"
+  },
+  {
+    "Occasion":"Gym\/Workout",
+    "Recommended Styles":"Athleisure, Sporty, Functional",
+    "Color Range":"Black, Gray, Bright Accent Colors"
+  },
+  {
+    "Occasion":"Loungewear\/Home",
+    "Recommended Styles":"Casual, Minimalist, Athleisure",
+    "Color Range":"Neutral, Beige, White, Gray"
+  },
+  {
+    "Occasion":"Photoshoot",
+    "Recommended Styles":"High Fashion, Avant-Garde, Artsy",
+    "Color Range":"Bold, Artistic, Black, White"
+  },
+  {
+    "Occasion":"Cultural Event",
+    "Recommended Styles":"Cultural, Classic, Eclectic",
+    "Color Range":"Traditional Colors, Jewel Tones, Neutral"
+  },
+  {
+    "Occasion":"Church\/Religious Ceremony",
+    "Recommended Styles":"Classic, Cultural, Minimalist",
+    "Color Range":"White, Cream, Muted Tones, Navy"
+  },
+  {
+    "Occasion":"School\/College",
+    "Recommended Styles":"Preppy, Casual, Streetwear",
+    "Color Range":"School Colors, Navy, Gray, Beige"
+  },
+  {
+    "Occasion":"Fashion Show",
+    "Recommended Styles":"High Fashion, Avant-Garde, Luxury",
+    "Color Range":"Bold, Black, Metallic, White"
+  },
+  {
+    "Occasion":"Shopping Trip",
+    "Recommended Styles":"Casual, Minimalist, Streetwear",
+    "Color Range":"Neutral, Denim, Earth Tones"
+  },
+  {
+    "Occasion":"Airport\/Travel",
+    "Recommended Styles":"Athleisure, Casual, Functional",
+    "Color Range":"Neutral, Black, Navy, Beige"
+  },
+  {
+    "Occasion":"Rainy Day",
+    "Recommended Styles":"Functional, Minimalist, Gorpcore",
+    "Color Range":"Gray, Navy, Black, Waterproof"
+  },
+  {
+    "Occasion":"Snowy Day",
+    "Recommended Styles":"Gorpcore, Functional, Classic",
+    "Color Range":"White, Ivory, Gray, Ice Blue"
+  },
+  {
+    "Occasion":"Hot Summer Day",
+    "Recommended Styles":"Cottagecore, Minimalist, Boho",
+    "Color Range":"White, Pastels, Sky Blue, Coral"
+  },
+  {
+    "Occasion":"Cold Winter Day",
+    "Recommended Styles":"Functional, Luxury, Classic",
+    "Color Range":"Black, Navy, Gray, Deep Green"
+  },
+  {
+    "Occasion":"Brunch",
+    "Recommended Styles":"Clean Girl, Preppy, Minimalist",
+    "Color Range":"White, Beige, Pastels, Soft Neutrals"
+  },
+  {
+    "Occasion":"Evening Gala",
+    "Recommended Styles":"Glam, Luxury, Formal",
+    "Color Range":"Black, Navy, Deep Jewel Tones, Metallic"
+  },
+  {
+    "Occasion":"Prom",
+    "Recommended Styles":"Balletcore, Romantic, Glam",
+    "Color Range":"Pastels, Metallic, Navy, Jewel Tones"
+  },
+  {
+    "Occasion":"Costume Party",
+    "Recommended Styles":"Kitsch, Steampunk, Cyberpunk",
+    "Color Range":"Bold, Neon, Dark Tones, Metallic"
+  },
+  {
+    "Occasion":"Art Exhibition",
+    "Recommended Styles":"Artsy, Modern, Eclectic",
+    "Color Range":"Black, White, Bold Accent Colors"
+  },
+  {
+    "Occasion":"Museum Visit",
+    "Recommended Styles":"Classic, Minimalist, Dark Academia",
+    "Color Range":"Brown, Beige, Black, Navy, Earth Tones"
+  },
+  {
+    "Occasion":"Charity Gala",
+    "Recommended Styles":"Quiet Luxury, Chic, Formal",
+    "Color Range":"Black, Navy, Jewel Tones, Silver"
+  },
+  {
+    "Occasion":"Networking Event",
+    "Recommended Styles":"Business Casual, Chic, Modern",
+    "Color Range":"Navy, Gray, White, Beige"
+  },
+  {
+    "Occasion":"Street Style Photoshoot",
+    "Recommended Styles":"Streetwear, Urban, Y2K",
+    "Color Range":"Bold, Denim, Neon, Black"
+  }
+]

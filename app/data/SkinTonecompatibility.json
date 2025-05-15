@@ -1,0 +1,65 @@
+[
+  {
+    "Skin Tone \/ Undertone":"Very Fair \/ Cool",
+    "Red Range":"Rose Red, Cherry Red, Raspberry",
+    "Blue Range":"Baby Blue, Sky Blue, Periwinkle",
+    "Green Range":"Mint, Seafoam, Cool Teal",
+    "Yellow Range":"Soft Lemon, Icy Yellow",
+    "Purple Range":"Lavender, Lilac, Cool Mauve",
+    "Neutral Range":"Ivory, Light Gray, Cool Taupe"
+  },
+  {
+    "Skin Tone \/ Undertone":"Fair \/ Warm",
+    "Red Range":"Coral, Watermelon, Tomato Red",
+    "Blue Range":"Powder Blue, Denim, Soft Turquoise",
+    "Green Range":"Sage, Olive, Pistachio",
+    "Yellow Range":"Sunflower, Mustard, Goldenrod",
+    "Purple Range":"Orchid, Plum, Mauve",
+    "Neutral Range":"Cream, Camel, Warm Beige"
+  },
+  {
+    "Skin Tone \/ Undertone":"Light \/ Neutral",
+    "Red Range":"Blush, Dusty Rose, Brick",
+    "Blue Range":"Denim, Cerulean, Cool Blue",
+    "Green Range":"Forest, Sage, Soft Olive",
+    "Yellow Range":"Butter, Gold, Pastel Yellow",
+    "Purple Range":"Mauve, Lavender, Deep Lilac",
+    "Neutral Range":"Beige, Soft Gray, Greige"
+  },
+  {
+    "Skin Tone \/ Undertone":"Medium \/ Warm",
+    "Red Range":"Tomato Red, Terracotta, Coral",
+    "Blue Range":"Cobalt, Slate Blue, Teal",
+    "Green Range":"Emerald, Olive, Khaki",
+    "Yellow Range":"Marigold, Amber, Golden Yellow",
+    "Purple Range":"Aubergine, Plum, Warm Violet",
+    "Neutral Range":"Caramel, Bronze, Warm Taupe"
+  },
+  {
+    "Skin Tone \/ Undertone":"Tan \/ Olive",
+    "Red Range":"Brick Red, Rust, Deep Coral",
+    "Blue Range":"Teal, Navy, Sapphire",
+    "Green Range":"Olive, Hunter Green, Army Green",
+    "Yellow Range":"Burnt Yellow, Mustard, Ochre",
+    "Purple Range":"Plum, Eggplant, Burgundy",
+    "Neutral Range":"Tan, Olive Beige, Chocolate Brown"
+  },
+  {
+    "Skin Tone \/ Undertone":"Deep \/ Warm",
+    "Red Range":"Scarlet, Crimson, Rust",
+    "Blue Range":"Royal Blue, Indigo, Peacock",
+    "Green Range":"Forest, Pine, Deep Olive",
+    "Yellow Range":"Deep Gold, Honey, Saffron",
+    "Purple Range":"Eggplant, Deep Plum, Wine",
+    "Neutral Range":"Espresso, Chocolate, Deep Bronze"
+  },
+  {
+    "Skin Tone \/ Undertone":"Deep \/ Cool",
+    "Red Range":"Burgundy, Berry, Cranberry",
+    "Blue Range":"Navy, Steel Blue, Midnight Blue",
+    "Green Range":"Emerald, Jade, Deep Teal",
+    "Yellow Range":"Cool Mustard, Antique Gold",
+    "Purple Range":"Royal Purple, Aubergine, Cool Plum",
+    "Neutral Range":"Charcoal, Graphite, Cool Cocoa"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "Pattern":"Solid",
+    "Compatible With":"Solid, Striped, Plaid, Checked, Houndstooth, Herringbone, Polka dot, Paisley, Floral, Geometric, Abstract, Animal print, Camouflage, Argyle, Chevron, Tie-dye, Ikat, Batik, Toile, Gingham, Windowpane, Pinstripe, Tartan, Ethnic, Tribal, Zebra print, Leopard print, Snake print, Galaxy, Marble, Ombre, Color block, Gradient, Baroque, Mandala, Art deco, Wavy, Graphic, Retro, Vintage, Bohemian, Minimalist, Psychedelic, Aztec, Patchwork, Letter print, Typography, Digital print, Splatter, Hand-drawn, Folk, Nordic, Fair Isle, Kaleidoscope, Swirl, Star print, Moon print, Cartoon print, Novelty print, Logo print, Fruit print, Tropical, Palm print, Botanical, Feather print, Sea shell print, Stripes - vertical, Stripes - horizontal, Ink blot, Cracked, Mosaic, Graffiti"
+  },
+  {
+    "Pattern":"Striped",
+    "Compatible With":"Solid, Floral, Polka dot, Geometric, Abstract"
+  },
+  {
+    "Pattern":"Plaid",
+    "Compatible With":"Solid, Minimalist, Typography"
+  },
+  {
+    "Pattern":"Checked",
+    "Compatible With":"Solid, Graphic"
+  },
+  {
+    "Pattern":"Houndstooth",
+    "Compatible With":"Solid, Color block"
+  },
+  {
+    "Pattern":"Herringbone",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Polka dot",
+    "Compatible With":"Solid, Stripes - vertical, Floral"
+  },
+  {
+    "Pattern":"Paisley",
+    "Compatible With":"Solid, Geometric"
+  },
+  {
+    "Pattern":"Floral",
+    "Compatible With":"Solid, Stripes - vertical, Polka dot, Geometric"
+  },
+  {
+    "Pattern":"Geometric",
+    "Compatible With":"Solid, Stripes - vertical, Polka dot"
+  },
+  {
+    "Pattern":"Abstract",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Animal print",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Camouflage",
+    "Compatible With":"Solid, Graffiti, Typography"
+  },
+  {
+    "Pattern":"Argyle",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Chevron",
+    "Compatible With":"Solid, Polka dot, Geometric"
+  },
+  {
+    "Pattern":"Tie-dye",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Ikat",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Batik",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Toile",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Gingham",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Windowpane",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Pinstripe",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Tartan",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Ethnic",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Tribal",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Zebra print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Leopard print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Snake print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Galaxy",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Marble",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Ombre",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Color block",
+    "Compatible With":"Solid, Typography"
+  },
+  {
+    "Pattern":"Gradient",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Baroque",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Mandala",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Art deco",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Wavy",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Graphic",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Retro",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Vintage",
+    "Compatible With":"Solid, Polka dot"
+  },
+  {
+    "Pattern":"Bohemian",
+    "Compatible With":"Solid, Tribal, Ethnic"
+  },
+  {
+    "Pattern":"Minimalist",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Psychedelic",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Aztec",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Patchwork",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Letter print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Typography",
+    "Compatible With":"Solid, Minimalist"
+  },
+  {
+    "Pattern":"Digital print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Splatter",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Hand-drawn",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Folk",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Nordic",
+    "Compatible With":"Solid, Fair Isle"
+  },
+  {
+    "Pattern":"Fair Isle",
+    "Compatible With":"Solid, Nordic"
+  },
+  {
+    "Pattern":"Kaleidoscope",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Swirl",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Star print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Moon print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Cartoon print",
+    "Compatible With":"Solid, Typography"
+  },
+  {
+    "Pattern":"Novelty print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Logo print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Fruit print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Tropical",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Palm print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Botanical",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Feather print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Sea shell print",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Stripes - vertical",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Stripes - horizontal",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Ink blot",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Cracked",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Mosaic",
+    "Compatible With":"Solid"
+  },
+  {
+    "Pattern":"Graffiti",
+    "Compatible With":"Solid, Typography, Abstract"
+  }
+]
